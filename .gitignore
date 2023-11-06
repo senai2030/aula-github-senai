@@ -9,7 +9,7 @@
 *.log
 
 # BlueJ files
-*css
+*.css
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
@@ -18,7 +18,7 @@
 *.jar
 *.war
 *.nar
-*.ear
+*.earhi
 *.zip
 *.tar.gz
 *.rar
