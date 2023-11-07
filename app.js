@@ -3,7 +3,7 @@ let numeroLimite = 20;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 10;
 
-function exibirTextoNaTela(tag, texto) {
+function TextoNaTela(tag, texto) {
     let campo = document.querySelector(tag);
     campo.innerHTML = texto;
     responsiveVoice.speak(texto, 'Brazilian Portuguese Female', {rate:1.2});
