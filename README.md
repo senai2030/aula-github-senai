@@ -46,7 +46,6 @@ Para seguir este tutorial, você deve ter um conhecimento básico de:
 * Seletores CSS
 * Layout CSS
 
-**Seção 4: JavaScript**
 
 * Variáveis ​​JavaScript
 * Funções JavaScript
